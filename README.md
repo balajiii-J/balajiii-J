@@ -1,6 +1,24 @@
-# 💫 About Me:
-*👋 Hi there! I'm Balaji*
-<br>I'm a passionate *AI & Data Science* enthusiast and a student at *CMS College of Engineering and Technology, Coimbatore. Currently, I'm diving deep into the world of technology, with a focus on artificial intelligence, machine learning, and data science. I love solving real-world problems with code, data, and algorithms.<br><br>🔧 Technologies I work with:<br><br>Programming Languages:* Python, Java, C, C++<br><br>*Databases:* MySQL<br><br>*AI/ML Libraries:* TensorFlow, PyTorch, Scikit-learn<br><br>*Tools:* Jupyter Notebook, Git, VS Code<br><br>🌱 *Currently learning:* <br><br>Exploring advanced concepts in AI and Machine Learning<br><br>Working on projects involving data analysis and predictive modeling<br><br>Deepening my understanding of algorithms and data structures<br>
+# Hi there 👋, I am Balaji
+
+### Aspiring Data Analyst | B.Tech AI & DS | Python | SQL | Data Visualization
+
+---
+
+## 🎯 About Me
+I am a 3rd-year B.Tech student in Artificial Intelligence & Data Science at Anna University, passionate about analyzing data and building projects that turn raw data into actionable insights. Skilled in Python, SQL, Excel, and Data Visualization, I am seeking opportunities to contribute as a **Data Analyst** in the IT industry.
+
+---
+
+## 💻 Skills
+
+**Programming & Data Analysis:**  
+Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn (Basics)
+
+**Data Tools & Visualization:**  
+Excel | Power BI (Basics) | Tableau (Basics)
+
+**Concepts:**  
+Data Cleaning | Exploratory Data Analysis (EDA) | Data Visualization | Statistical Analysis | Problem Solving
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_.balajiii.__?igsh=d2c1Z254M3BxaHV0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/balaji-j-223660355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
