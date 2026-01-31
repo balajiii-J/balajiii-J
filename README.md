@@ -12,10 +12,10 @@ I am a 3rd-year B.Tech student in Artificial Intelligence & Data Science at Anna
 ## 💻 Skills
 
 **Programming & Data Analysis:**  
-Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn (Basics)
+Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
 **Data Tools & Visualization:**  
-Excel | Power BI (Basics) | Tableau (Basics)
+Excel | Power BI | Tableau
 
 **Concepts:**  
 Data Cleaning | Exploratory Data Analysis (EDA) | Data Visualization | Statistical Analysis | Problem Solving
